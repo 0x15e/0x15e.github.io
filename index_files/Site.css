@@ -1,0 +1,27 @@
+html
+{
+    background-image: url(/Content/images/Great-Space-Coaster-6.JPG);
+}
+#logo 
+{
+    font-family: Arial, helvetica, Sans-Serif;
+    color: White;
+}
+a 
+{
+    text-decoration: none;
+    border: 0px solid;
+    color: Gray;
+}
+a.visited 
+{
+    color: Gray;
+}
+a:hover 
+{
+    text-decoration: underline;
+}
+img 
+{
+    border: 0px solid;
+}
